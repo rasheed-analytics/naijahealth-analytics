@@ -1,0 +1,101 @@
+Item_ID,Item_Name,Category,Supplier,Hospital_Name,Unit_Cost_NGN,Quantity_In_Stock,Reorder_Level,Stock_Status,Monthly_Usage,Last_Restock_Date,Total_Stock_Value_NGN,Days_Until_Stockout,Expiry_Date
+INV-0001,Paracetamol 500mg,Drug,MedSupply Abuja,Lagos General Hospital,"4,078.74",143,56,Adequate,103,28/12/2023,"583,259.82",76.60714286,02/05/2023
+INV-0002,Paracetamol 500mg,Drug,HealthMart Nigeria,Ibadan Teaching Hospital,"4,520.70",395,49,Adequate,76,29/04/2024,"1,785,676.50",241.8367347,20/10/2023
+INV-0003,Paracetamol 500mg,Drug,NigeriaMed Ltd,Abuja National Hospital,"16,274.79",71,80,Low,41,05/08/2024,"1,155,510.09",26.625,13/06/2024
+INV-0004,Paracetamol 500mg,Drug,HealthMart Nigeria,Kano Medical Centre,"9,118.63",146,45,Adequate,114,13/05/2023,"1,331,319.98",97.33333333,26/04/2024
+INV-0005,Paracetamol 500mg,Drug,MedSupply Abuja,Port Harcourt Specialist Hospital,"12,836.36",319,80,Adequate,90,18/01/2024,"4,094,798.84",119.625,26/04/2023
+INV-0006,Amoxicillin 250mg,Drug,NigeriaMed Ltd,Lagos General Hospital,"12,673.26",134,76,Adequate,20,28/02/2023,"1,698,216.84",52.89473684,08/10/2023
+INV-0007,Amoxicillin 250mg,Drug,AfriHealth Supplies,Ibadan Teaching Hospital,248.18,436,26,Adequate,84,20/01/2024,"108,206.48",503.0769231,12/07/2023
+INV-0008,Amoxicillin 250mg,Drug,AfriHealth Supplies,Abuja National Hospital,"10,012.05",37,34,Adequate,109,18/04/2024,"370,445.85",32.64705882,16/12/2024
+INV-0009,Amoxicillin 250mg,Drug,HealthMart Nigeria,Kano Medical Centre,"8,756.00",239,61,Adequate,146,21/04/2024,"2,092,684.00",117.5409836,22/05/2023
+INV-0010,Amoxicillin 250mg,Drug,HealthMart Nigeria,Port Harcourt Specialist Hospital,"4,547.82",55,78,Low,111,19/03/2024,"250,130.10",21.15384615,23/08/2023
+INV-0011,Metronidazole 200mg,Drug,NigeriaMed Ltd,Lagos General Hospital,"8,251.58",162,41,Adequate,134,06/08/2023,"1,336,755.96",118.5365854,01/06/2024
+INV-0012,Metronidazole 200mg,Drug,HealthMart Nigeria,Ibadan Teaching Hospital,"6,995.46",19,54,Critical,49,26/04/2024,"132,913.74",10.55555556,29/06/2023
+INV-0013,Metronidazole 200mg,Drug,PharmaCo Lagos,Abuja National Hospital,"8,038.66",16,58,Critical,107,05/03/2023,"128,618.56",8.275862069,05/02/2024
+INV-0014,Metronidazole 200mg,Drug,NigeriaMed Ltd,Kano Medical Centre,"24,465.09",109,23,Adequate,64,24/01/2023,"2,666,694.81",142.173913,31/12/2024
+INV-0015,Metronidazole 200mg,Drug,NigeriaMed Ltd,Port Harcourt Specialist Hospital,"6,782.71",325,31,Adequate,31,26/05/2023,"2,204,380.75",314.516129,11/04/2023
+INV-0016,IV Fluid 1L,Consumable,MedSupply Abuja,Lagos General Hospital,"10,156.46",152,75,Adequate,125,05/03/2024,"1,543,781.92",60.8,21/07/2024
+INV-0017,IV Fluid 1L,Consumable,PharmaCo Lagos,Ibadan Teaching Hospital,"16,757.63",132,31,Adequate,23,05/04/2023,"2,212,007.16",127.7419355,13/04/2024
+INV-0018,IV Fluid 1L,Consumable,MedSupply Abuja,Abuja National Hospital,"24,085.98",152,30,Adequate,60,24/12/2023,"3,661,068.96",152,04/04/2024
+INV-0019,IV Fluid 1L,Consumable,NigeriaMed Ltd,Kano Medical Centre,"11,913.71",352,70,Adequate,51,23/03/2024,"4,193,625.92",150.8571429,29/01/2024
+INV-0020,IV Fluid 1L,Consumable,AfriHealth Supplies,Port Harcourt Specialist Hospital,"9,758.99",5,55,Critical,60,21/03/2023,"48,794.95",2.727272727,14/12/2024
+INV-0021,Surgical Gloves (Box),Consumable,AfriHealth Supplies,Lagos General Hospital,"15,431.98",165,62,Adequate,91,15/01/2023,"2,546,276.70",79.83870968,04/07/2023
+INV-0022,Surgical Gloves (Box),Consumable,NigeriaMed Ltd,Ibadan Teaching Hospital,"23,348.79",255,75,Adequate,91,27/04/2023,"5,953,941.45",102,21/12/2024
+INV-0023,Surgical Gloves (Box),Consumable,NigeriaMed Ltd,Abuja National Hospital,"6,606.93",369,20,Adequate,125,09/05/2023,"2,437,957.17",553.5,10/11/2024
+INV-0024,Surgical Gloves (Box),Consumable,NigeriaMed Ltd,Kano Medical Centre,"15,990.96",296,26,Adequate,19,12/08/2023,"4,733,324.16",341.5384615,11/08/2023
+INV-0025,Surgical Gloves (Box),Consumable,NigeriaMed Ltd,Port Harcourt Specialist Hospital,"17,426.33",396,30,Adequate,106,10/08/2023,"6,900,826.68",396,22/01/2024
+INV-0026,Syringes 5ml (Box),Consumable,PharmaCo Lagos,Lagos General Hospital,"23,811.80",497,63,Adequate,13,15/01/2024,"11,834,464.60",236.6666667,07/02/2024
+INV-0027,Syringes 5ml (Box),Consumable,HealthMart Nigeria,Ibadan Teaching Hospital,"7,583.51",157,52,Adequate,41,26/05/2024,"1,190,611.07",90.57692308,25/11/2024
+INV-0028,Syringes 5ml (Box),Consumable,NigeriaMed Ltd,Abuja National Hospital,"10,380.64",180,42,Adequate,148,12/03/2024,"1,868,515.20",128.5714286,19/07/2024
+INV-0029,Syringes 5ml (Box),Consumable,MedSupply Abuja,Kano Medical Centre,"2,878.83",90,49,Adequate,119,18/01/2024,"259,094.70",55.10204082,31/07/2023
+INV-0030,Syringes 5ml (Box),Consumable,AfriHealth Supplies,Port Harcourt Specialist Hospital,"14,892.55",277,47,Adequate,107,19/10/2023,"4,125,236.35",176.8085106,06/12/2024
+INV-0031,Oxygen Cylinder,Equipment,NigeriaMed Ltd,Lagos General Hospital,"15,870.98",359,59,Adequate,35,31/03/2023,"5,697,681.82",182.5423729,17/05/2023
+INV-0032,Oxygen Cylinder,Equipment,HealthMart Nigeria,Ibadan Teaching Hospital,"16,258.13",315,79,Adequate,115,17/04/2023,"5,121,310.95",119.6202532,22/06/2024
+INV-0033,Oxygen Cylinder,Equipment,AfriHealth Supplies,Abuja National Hospital,"23,184.36",51,60,Low,123,30/05/2024,"1,182,402.36",25.5,17/09/2024
+INV-0034,Oxygen Cylinder,Equipment,HealthMart Nigeria,Kano Medical Centre,"16,709.37",436,46,Adequate,64,17/08/2023,"7,285,285.32",284.3478261,10/05/2024
+INV-0035,Oxygen Cylinder,Equipment,AfriHealth Supplies,Port Harcourt Specialist Hospital,"9,557.94",100,74,Adequate,130,08/05/2023,"955,794.00",40.54054054,25/01/2024
+INV-0036,PPE Kit,Consumable,NigeriaMed Ltd,Lagos General Hospital,"10,352.72",420,61,Adequate,111,08/01/2023,"4,348,142.40",206.557377,18/02/2024
+INV-0037,PPE Kit,Consumable,PharmaCo Lagos,Ibadan Teaching Hospital,"12,713.64",137,76,Adequate,77,11/11/2023,"1,741,768.68",54.07894737,30/03/2024
+INV-0038,PPE Kit,Consumable,PharmaCo Lagos,Abuja National Hospital,153.73,465,46,Adequate,18,16/01/2023,"71,484.45",303.2608696,26/02/2023
+INV-0039,PPE Kit,Consumable,PharmaCo Lagos,Kano Medical Centre,"19,773.23",430,72,Adequate,142,22/11/2023,"8,502,488.90",179.1666667,09/01/2024
+INV-0040,PPE Kit,Consumable,PharmaCo Lagos,Port Harcourt Specialist Hospital,"23,981.06",220,35,Adequate,110,17/07/2023,"5,275,833.20",188.5714286,23/10/2024
+INV-0041,Blood Bag,Consumable,NigeriaMed Ltd,Lagos General Hospital,"20,722.32",410,79,Adequate,119,12/05/2023,"8,496,151.20",155.6962025,12/11/2024
+INV-0042,Blood Bag,Consumable,NigeriaMed Ltd,Ibadan Teaching Hospital,"24,435.02",88,45,Adequate,91,13/06/2024,"2,150,281.76",58.66666667,12/07/2023
+INV-0043,Blood Bag,Consumable,NigeriaMed Ltd,Abuja National Hospital,"5,812.69",363,71,Adequate,42,31/05/2024,"2,110,006.47",153.3802817,01/06/2023
+INV-0044,Blood Bag,Consumable,AfriHealth Supplies,Kano Medical Centre,"19,617.82",431,68,Adequate,76,20/07/2024,"8,455,280.42",190.1470588,12/07/2023
+INV-0045,Blood Bag,Consumable,MedSupply Abuja,Port Harcourt Specialist Hospital,"5,133.88",47,21,Adequate,121,12/01/2023,"241,292.36",67.14285714,04/11/2024
+INV-0046,Bandage Roll,Consumable,AfriHealth Supplies,Lagos General Hospital,"3,868.56",316,65,Adequate,149,22/03/2023,"1,222,464.96",145.8461538,07/09/2024
+INV-0047,Bandage Roll,Consumable,NigeriaMed Ltd,Ibadan Teaching Hospital,680.98,375,28,Adequate,126,02/01/2024,"255,367.50",401.7857143,10/08/2023
+INV-0048,Bandage Roll,Consumable,PharmaCo Lagos,Abuja National Hospital,"16,330.44",113,39,Adequate,59,02/07/2024,"1,845,339.72",86.92307692,09/10/2023
+INV-0049,Bandage Roll,Consumable,NigeriaMed Ltd,Kano Medical Centre,"19,271.27",337,23,Adequate,80,26/03/2023,"6,494,417.99",439.5652174,27/06/2023
+INV-0050,Bandage Roll,Consumable,HealthMart Nigeria,Port Harcourt Specialist Hospital,"15,977.74",296,75,Adequate,36,24/04/2023,"4,729,411.04",118.4,15/05/2024
+INV-0051,Antimalaria Tabs,Drug,AfriHealth Supplies,Lagos General Hospital,"3,110.97",72,38,Adequate,77,04/07/2023,"223,989.84",56.84210526,06/05/2023
+INV-0052,Antimalaria Tabs,Drug,HealthMart Nigeria,Ibadan Teaching Hospital,"12,381.41",185,78,Adequate,63,05/02/2024,"2,290,560.85",71.15384615,14/05/2023
+INV-0053,Antimalaria Tabs,Drug,NigeriaMed Ltd,Abuja National Hospital,"19,896.26",211,24,Adequate,134,20/03/2023,"4,198,110.86",263.75,03/09/2023
+INV-0054,Antimalaria Tabs,Drug,NigeriaMed Ltd,Kano Medical Centre,"9,412.60",160,60,Adequate,125,14/06/2023,"1,506,016.00",80,03/08/2023
+INV-0055,Antimalaria Tabs,Drug,MedSupply Abuja,Port Harcourt Specialist Hospital,303.00,91,62,Adequate,18,01/05/2023,"27,573.00",44.03225806,17/01/2024
+INV-0056,Insulin Vial,Drug,MedSupply Abuja,Lagos General Hospital,"12,123.58",314,58,Adequate,149,06/01/2023,"3,806,804.12",162.4137931,12/07/2023
+INV-0057,Insulin Vial,Drug,AfriHealth Supplies,Ibadan Teaching Hospital,"18,555.34",474,27,Adequate,59,31/01/2023,"8,795,231.16",526.6666667,01/08/2024
+INV-0058,Insulin Vial,Drug,HealthMart Nigeria,Abuja National Hospital,"12,973.97",389,29,Adequate,65,09/01/2024,"5,046,874.33",402.4137931,28/05/2023
+INV-0059,Insulin Vial,Drug,PharmaCo Lagos,Kano Medical Centre,785.97,70,34,Adequate,31,10/05/2023,"55,017.90",61.76470588,01/11/2023
+INV-0060,Insulin Vial,Drug,MedSupply Abuja,Port Harcourt Specialist Hospital,"12,065.29",488,25,Adequate,99,18/07/2024,"5,887,861.52",585.6,28/11/2024
+INV-0061,Morphine Injection,Drug,MedSupply Abuja,Lagos General Hospital,"11,702.74",414,51,Adequate,121,08/06/2024,"4,844,934.36",243.5294118,15/03/2024
+INV-0062,Morphine Injection,Drug,PharmaCo Lagos,Ibadan Teaching Hospital,"6,289.82",101,63,Adequate,81,07/02/2024,"635,271.82",48.0952381,16/05/2023
+INV-0063,Morphine Injection,Drug,AfriHealth Supplies,Abuja National Hospital,"19,839.17",300,39,Adequate,52,30/07/2023,"5,951,751.00",230.7692308,13/06/2024
+INV-0064,Morphine Injection,Drug,NigeriaMed Ltd,Kano Medical Centre,"22,077.29",216,58,Adequate,79,23/11/2023,"4,768,694.64",111.7241379,29/10/2024
+INV-0065,Morphine Injection,Drug,HealthMart Nigeria,Port Harcourt Specialist Hospital,"15,202.03",219,32,Adequate,100,18/01/2024,"3,329,244.57",205.3125,08/11/2024
+INV-0066,Surgical Mask (Box),Consumable,HealthMart Nigeria,Lagos General Hospital,"11,262.61",455,22,Adequate,140,17/09/2023,"5,124,487.55",620.4545455,22/09/2024
+INV-0067,Surgical Mask (Box),Consumable,NigeriaMed Ltd,Ibadan Teaching Hospital,"7,372.16",423,76,Adequate,145,27/12/2023,"3,118,423.68",166.9736842,13/03/2024
+INV-0068,Surgical Mask (Box),Consumable,HealthMart Nigeria,Abuja National Hospital,"2,910.52",414,40,Adequate,119,10/07/2023,"1,204,955.28",310.5,01/02/2024
+INV-0069,Surgical Mask (Box),Consumable,PharmaCo Lagos,Kano Medical Centre,"1,862.38",336,43,Adequate,105,29/05/2023,"625,759.68",234.4186047,18/12/2023
+INV-0070,Surgical Mask (Box),Consumable,HealthMart Nigeria,Port Harcourt Specialist Hospital,290.34,352,20,Adequate,94,07/08/2023,"102,199.68",528,21/05/2024
+INV-0071,Stethoscope,Equipment,AfriHealth Supplies,Lagos General Hospital,"19,891.22",460,34,Adequate,26,30/01/2024,"9,149,961.20",405.8823529,17/11/2023
+INV-0072,Stethoscope,Equipment,AfriHealth Supplies,Ibadan Teaching Hospital,"5,343.77",111,26,Adequate,81,18/03/2023,"593,158.47",128.0769231,09/09/2024
+INV-0073,Stethoscope,Equipment,NigeriaMed Ltd,Abuja National Hospital,"17,069.19",222,40,Adequate,91,22/07/2023,"3,789,360.18",166.5,20/08/2023
+INV-0074,Stethoscope,Equipment,HealthMart Nigeria,Kano Medical Centre,"20,077.99",255,22,Adequate,80,07/03/2024,"5,119,887.45",347.7272727,02/06/2023
+INV-0075,Stethoscope,Equipment,HealthMart Nigeria,Port Harcourt Specialist Hospital,"11,346.99",307,40,Adequate,108,31/08/2023,"3,483,525.93",230.25,12/09/2024
+INV-0076,BP Machine,Equipment,HealthMart Nigeria,Lagos General Hospital,"7,161.67",329,70,Adequate,11,17/04/2024,"2,356,189.43",141,18/11/2023
+INV-0077,BP Machine,Equipment,PharmaCo Lagos,Ibadan Teaching Hospital,"21,048.99",206,22,Adequate,146,24/06/2024,"4,336,091.94",280.9090909,12/03/2023
+INV-0078,BP Machine,Equipment,MedSupply Abuja,Abuja National Hospital,"16,137.15",35,50,Low,34,01/03/2024,"564,800.25",21,05/12/2023
+INV-0079,BP Machine,Equipment,MedSupply Abuja,Kano Medical Centre,"7,963.88",177,45,Adequate,30,23/07/2024,"1,409,606.76",118,17/12/2023
+INV-0080,BP Machine,Equipment,NigeriaMed Ltd,Port Harcourt Specialist Hospital,"15,327.40",201,39,Adequate,126,20/05/2024,"3,080,807.40",154.6153846,17/11/2024
+INV-0081,Glucometer,Equipment,HealthMart Nigeria,Lagos General Hospital,"21,084.74",480,59,Adequate,36,30/01/2023,"10,120,675.20",244.0677966,17/09/2023
+INV-0082,Glucometer,Equipment,HealthMart Nigeria,Ibadan Teaching Hospital,"20,645.14",71,26,Adequate,92,22/03/2024,"1,465,804.94",81.92307692,19/09/2023
+INV-0083,Glucometer,Equipment,PharmaCo Lagos,Abuja National Hospital,"2,246.02",370,77,Adequate,104,04/07/2024,"831,027.40",144.1558442,05/02/2023
+INV-0084,Glucometer,Equipment,HealthMart Nigeria,Kano Medical Centre,"6,529.21",401,22,Adequate,38,19/02/2023,"2,618,213.21",546.8181818,08/12/2023
+INV-0085,Glucometer,Equipment,HealthMart Nigeria,Port Harcourt Specialist Hospital,"6,629.99",352,59,Adequate,107,04/10/2023,"2,333,756.48",178.9830508,24/07/2023
+INV-0086,Catheter Set,Consumable,PharmaCo Lagos,Lagos General Hospital,"14,607.16",61,28,Adequate,91,01/06/2023,"891,036.76",65.35714286,20/09/2024
+INV-0087,Catheter Set,Consumable,NigeriaMed Ltd,Ibadan Teaching Hospital,"15,940.75",342,27,Adequate,143,24/06/2024,"5,451,736.50",380,04/10/2023
+INV-0088,Catheter Set,Consumable,AfriHealth Supplies,Abuja National Hospital,"11,974.27",250,37,Adequate,92,09/05/2024,"2,993,567.50",202.7027027,19/09/2023
+INV-0089,Catheter Set,Consumable,HealthMart Nigeria,Kano Medical Centre,"6,632.11",151,65,Adequate,31,28/12/2023,"1,001,448.61",69.69230769,24/08/2024
+INV-0090,Catheter Set,Consumable,PharmaCo Lagos,Port Harcourt Specialist Hospital,"16,504.05",376,74,Adequate,62,21/03/2023,"6,205,522.80",152.4324324,17/04/2023
+INV-0091,Suture Kit,Consumable,NigeriaMed Ltd,Lagos General Hospital,"1,553.66",6,62,Critical,65,24/04/2024,"9,321.96",2.903225806,29/02/2024
+INV-0092,Suture Kit,Consumable,PharmaCo Lagos,Ibadan Teaching Hospital,"12,216.76",174,33,Adequate,145,10/06/2024,"2,125,716.24",158.1818182,17/12/2023
+INV-0093,Suture Kit,Consumable,MedSupply Abuja,Abuja National Hospital,"17,727.38",335,29,Adequate,139,19/04/2023,"5,938,672.30",346.5517241,13/06/2023
+INV-0094,Suture Kit,Consumable,PharmaCo Lagos,Kano Medical Centre,"22,921.60",197,48,Adequate,141,27/07/2023,"4,515,555.20",123.125,15/03/2024
+INV-0095,Suture Kit,Consumable,PharmaCo Lagos,Port Harcourt Specialist Hospital,"1,762.55",216,30,Adequate,88,14/08/2024,"380,710.80",216,24/11/2024
+INV-0096,X-ray Film,Consumable,HealthMart Nigeria,Lagos General Hospital,"3,724.88",448,26,Adequate,38,04/09/2023,"1,668,746.24",516.9230769,16/02/2023
+INV-0097,X-ray Film,Consumable,NigeriaMed Ltd,Ibadan Teaching Hospital,"4,716.39",14,50,Critical,145,08/04/2024,"66,029.46",8.4,26/01/2024
+INV-0098,X-ray Film,Consumable,MedSupply Abuja,Abuja National Hospital,"3,002.24",281,25,Adequate,100,17/03/2024,"843,629.44",337.2,05/09/2023
+INV-0099,X-ray Film,Consumable,PharmaCo Lagos,Kano Medical Centre,"9,953.35",220,52,Adequate,95,24/02/2023,"2,189,737.00",126.9230769,26/04/2024
+INV-0100,X-ray Film,Consumable,MedSupply Abuja,Port Harcourt Specialist Hospital,"9,276.03",25,61,Critical,107,08/03/2024,"231,900.75",12.29508197,17/08/2023

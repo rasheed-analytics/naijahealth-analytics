@@ -1,0 +1,26 @@
+Staff_ID,Staff_Name,Role,Department,Hospital_Name,Shift,Years_of_Experience,Monthly_Salary_NGN,Patients_Attended,Avg_Consultation_Min,Overtime_Hours,Training_Completed,Employment_Status,Performance_Rating
+STF-001,Dr. Adeyemi O.,Nurse,Cardiology,Port Harcourt Specialist Hospital,Afternoon (2pm–10pm),21,"476,900",96,18,13.3,Yes,Active,4.9
+STF-002,Dr. Chukwu N.,Lab Technician,General Surgery,Lagos General Hospital,Afternoon (2pm–10pm),1,"426,864",84,38,15.3,Yes,Active,3.5
+STF-003,Dr. Musa B.,Pharmacist,Emergency,Ibadan Teaching Hospital,Morning (6am–2pm),20,"512,596",25,29,9.5,Yes,Active,3.9
+STF-004,Dr. Okonkwo F.,Admin Officer,Emergency,Ibadan Teaching Hospital,Afternoon (2pm–10pm),16,"249,070",29,34,8.2,Yes,Suspended,5
+STF-005,Dr. Balogun A.,Radiologist,General Surgery,Abuja National Hospital,Morning (6am–2pm),9,"260,997",110,12,20.8,No,Active,4.3
+STF-006,Dr. Ibrahim K.,Physiotherapist,Pediatrics,Abuja National Hospital,Afternoon (2pm–10pm),8,"197,316",16,25,32.1,Yes,Active,3.8
+STF-007,Dr. Eze C.,Dietitian,Obstetrics,Port Harcourt Specialist Hospital,Afternoon (2pm–10pm),6,"332,146",10,14,34.8,Yes,Active,2.2
+STF-008,Dr. Adeleke R.,Doctor,Oncology,Ibadan Teaching Hospital,Morning (6am–2pm),3,"178,995",80,23,9.5,Yes,On Leave,2.9
+STF-009,Nurse Adeola K.,Nurse,Pediatrics,Ibadan Teaching Hospital,Afternoon (2pm–10pm),6,"425,335",48,28,23.1,No,Active,2.8
+STF-010,Nurse Fatima Y.,Lab Technician,General Surgery,Lagos General Hospital,Afternoon (2pm–10pm),13,"295,299",70,38,16.9,Yes,On Leave,4.3
+STF-011,Nurse Emeka S.,Pharmacist,General Surgery,Lagos General Hospital,Afternoon (2pm–10pm),14,"566,804",107,29,23.8,Yes,Active,2.8
+STF-012,Nurse Amaka B.,Admin Officer,General Surgery,Abuja National Hospital,Afternoon (2pm–10pm),10,"293,834",87,40,2.9,Yes,On Leave,2.6
+STF-013,Lab Tech Bello M.,Radiologist,Pediatrics,Lagos General Hospital,Morning (6am–2pm),17,"496,310",57,41,16.2,Yes,On Leave,4.9
+STF-014,Pharmacist Ogah J.,Physiotherapist,Neurology,Kano Medical Centre,Afternoon (2pm–10pm),10,"445,398",85,14,16.4,Yes,Active,3.2
+STF-015,Admin Dike P.,Dietitian,Oncology,Ibadan Teaching Hospital,Afternoon (2pm–10pm),9,"519,624",106,32,20.4,Yes,Active,4.1
+STF-016,Radiologist Salami T.,Doctor,Obstetrics,Kano Medical Centre,Night (10pm–6am),8,"218,141",14,33,25.2,Yes,Active,2.8
+STF-017,Physio Olaitan R.,Nurse,General Surgery,Ibadan Teaching Hospital,Afternoon (2pm–10pm),8,"423,225",94,20,0.5,No,On Leave,3.2
+STF-018,Dietitian Uche A.,Lab Technician,Cardiology,Port Harcourt Specialist Hospital,Morning (6am–2pm),14,"174,519",64,26,27.7,Yes,Suspended,4
+STF-019,Nurse Zainab H.,Pharmacist,Obstetrics,Port Harcourt Specialist Hospital,Afternoon (2pm–10pm),24,"314,617",103,15,4.4,Yes,Active,4.4
+STF-020,Dr. Kemi O.,Admin Officer,Orthopedics,Ibadan Teaching Hospital,Night (10pm–6am),13,"478,435",10,20,32.7,Yes,Active,4.3
+STF-021,Lab Tech Musa D.,Radiologist,Obstetrics,Port Harcourt Specialist Hospital,Afternoon (2pm–10pm),21,"244,354",65,20,7.1,Yes,Active,2.6
+STF-022,Nurse Chika N.,Physiotherapist,Oncology,Port Harcourt Specialist Hospital,Morning (6am–2pm),15,"403,243",37,21,8,No,Active,2.8
+STF-023,Admin Bukola F.,Dietitian,Obstetrics,Kano Medical Centre,Night (10pm–6am),20,"142,241",91,20,3.2,Yes,Active,2.8
+STF-024,Dr. Ifeanyi E.,Doctor,Neurology,Lagos General Hospital,Night (10pm–6am),8,"352,401",96,16,0.4,Yes,Active,4
+STF-025,Nurse Sade L.,Nurse,Emergency,Lagos General Hospital,Morning (6am–2pm),17,"531,318",58,43,39.5,No,On Leave,3.4
